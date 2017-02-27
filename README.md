@@ -7,9 +7,11 @@ This list intends on providing a summarized version for anyone interested in lea
 # Get started!
 
 ## Tutorials
-[Dappsys](https://github.com/dapphub/dappsys) The best way to learn sometimes is to read code. Dappsys has a ton of example code for common concerns you can use right away.
-[D'app software patterns](https://www.slideshare.net/mids106/dapp-design-patterns)
-[DEVCON1 talk on patterns](https://youtube.com/watch?v=XkJ8mg-R7C0)
+[What are 'smart contracts'](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4#.ds1l5fgwj) - A newbie intro to thinking with blockchains
+[Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/) - Learning by reading more Solidity code
+[Dappsys](https://github.com/dapphub/dappsys) - The best way to learn sometimes is to read code. Dappsys has a ton of example code for common concerns you can use right away.
+[D'app software patterns](https://www.slideshare.net/mids106/dapp-design-patterns) - Software patterns for distrubuted applications
+[DEVCON1 talk on patterns](https://youtube.com/watch?v=XkJ8mg-R7C0) - In the flesh
 
 ### Videos
 [Ethereum YouTube channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ) has tons of videos on virtually any subject.
