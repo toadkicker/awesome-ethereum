@@ -2,7 +2,7 @@
 
 [Ethereum](https://www.ethereum.org) is a blockchain application platform. Imagine a world where a *block* is a version of some code that runs when it is called upon, and these can be chained together to create more complex applications.
 
-This list intends on providing a summarized version for anyone interested in learning how to create, distrubute, and even make a living creating distrubuted applications using Ethereum.
+This list intends on providing a summarized version for anyone interested in learning how to create, manage, and even make a living creating distrubuted applications using Ethereum.
 
 # Get started!
 
@@ -32,7 +32,6 @@ This list intends on providing a summarized version for anyone interested in lea
 [MetaMask for Chrome](https://metamask.io)
 
 ## Frameworks
-
 [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
 [Meteor](https://www.meteor.com) - Javascript platform that can be augmented for distrubuted apps. 
 [Web3.js](https://github.com/ethereum/web3.js/) - Ethereum JavaScript API
@@ -41,5 +40,6 @@ This list intends on providing a summarized version for anyone interested in lea
 [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications (DApps).
 
 
-## Other Info 
-
+## Other Info / News / Useful Information 
+[/r/ethereum](https://www.reddit.com/r/ethereum) on reddit
+[Ethdev](https://www.reddit.com/r/ethdev) - Great focused community eager to help
