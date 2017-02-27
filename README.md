@@ -8,6 +8,8 @@ This list intends on providing a summarized version for anyone interested in lea
 
 ## Tutorials
 [Dappsys](https://github.com/dapphub/dappsys) The best way to learn sometimes is to read code. Dappsys has a ton of example code for common concerns you can use right away.
+[D'app software patterns](https://www.slideshare.net/mids106/dapp-design-patterns)
+[DEVCON1 talk on patterns](https://youtube.com/watch?v=XkJ8mg-R7C0)
 
 ### Videos
 [Ethereum YouTube channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ) has tons of videos on virtually any subject.
