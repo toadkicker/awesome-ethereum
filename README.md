@@ -45,3 +45,4 @@ This list intends on providing a summarized version for anyone interested in lea
 ## Other Info / News / Useful Information 
 [/r/ethereum](https://www.reddit.com/r/ethereum) on reddit
 [Ethdev](https://www.reddit.com/r/ethdev) - Great focused community eager to help
+[Stackexchange](http://ethereum.stackexchange.com) of course!
