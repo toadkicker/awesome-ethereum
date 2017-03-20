@@ -4,6 +4,8 @@
 
 This list intends on providing a summarized version for anyone interested in learning how to create, manage, and even make a living creating distrubuted applications using Ethereum.
 
+When should I implement blockchains? [This answer](http://stackoverflow.com/questions/40999040/blockchain-concepts-implementations) is a great overview of blockchain concepts and comparing Ethereum to [Fabric](https://github.com/hyperledger/fabric). It's a good idea to know when to use one or the other.
+
 # Get started!
 
 ## Tutorials
@@ -19,6 +21,8 @@ This list intends on providing a summarized version for anyone interested in lea
 
 ### Videos
 [Ethereum YouTube channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ) has tons of videos on virtually any subject.
+
+[Q&A on governance trade offs](https://www.youtube.com/watch?v=dtwaW79Fj7c) is a talk about how Ethereum is the one of the first times engineering disciplines and democratic ideas converge.
 
 ### Text
 [Using Meteor](https://github.com/ethereum/wiki/wiki/Dapp-using-Meteor)
