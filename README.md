@@ -19,6 +19,8 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 
 [DEVCON1 talk on patterns](https://youtube.com/watch?v=XkJ8mg-R7C0) - In the flesh
 
+[Ethereum Development with Go](https://goethereumbook.org/)
+
 ### Videos
 [Ethereum YouTube channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ) has tons of videos on virtually any subject.
 
@@ -52,7 +54,7 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 ## Frameworks
 [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
 
-[Meteor](https://www.meteor.com) - Javascript platform that can be augmented for distrubuted apps. 
+[Meteor](https://www.meteor.com) - Javascript platform that can be augmented for distrubuted apps.
 
 [Web3.js](https://github.com/ethereum/web3.js/) - Ethereum JavaScript API
 
@@ -63,7 +65,7 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications (DApps).
 
 
-## Other Info / News / Useful Information 
+## Other Info / News / Useful Information
 [/r/ethereum](https://www.reddit.com/r/ethereum) on reddit
 
 [Ethdev](https://www.reddit.com/r/ethdev) - Great focused community eager to help
