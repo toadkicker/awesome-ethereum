@@ -46,6 +46,8 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 
 [Geth](https://www.ethereum.org/cli)
 
+[eth-cli](https://github.com/protofire/eth-cli) - A collection of CLI tools to help with ethereum learning and development.
+
 ## Browsers/Clients
 [Parity](https://ethcore.io/parity.html) Easy cross browser solution for browsing distributed apps
 
