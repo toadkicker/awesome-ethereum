@@ -75,3 +75,5 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 [Ethdev](https://www.reddit.com/r/ethdev) - Great focused community eager to help
 
 [Stackexchange](http://ethereum.stackexchange.com) of course!
+
+[Security Audits](https://hackernoon.com/security-audits-essential-yet-neglected-130e9af974fe)
