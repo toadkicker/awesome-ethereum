@@ -77,3 +77,5 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 [Stackexchange](http://ethereum.stackexchange.com) of course!
 
 [Security Audits](https://hackernoon.com/security-audits-essential-yet-neglected-130e9af974fe)
+
+[Learn Zero-Knowledge Proofs](https://medium.com/@weijiek/how-i-learned-zk-snarks-from-scratch-177a01c5514e)
