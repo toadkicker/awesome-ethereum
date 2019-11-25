@@ -23,6 +23,8 @@ When should I implement blockchains? [This answer](http://stackoverflow.com/ques
 
 [Ethereum Development with Go](https://goethereumbook.org/)
 
+[Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/).
+
 ### Videos
 [Ethereum YouTube channel](https://www.youtube.com/channel/UC6rYoXJ_3BbPyWx_GQDDRRQ) has tons of videos on virtually any subject.
 
